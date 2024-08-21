@@ -30,8 +30,7 @@ public class JwtUtil implements Serializable {
     }
 
     public Date getExpirationDateFromToken(String token) {
-//        return getUserRoleCodeFromToken(token, Claims::getExpiration);
-        return getUserRoleCodeFromToken(token).getExpiration();
+        return getClaimFromToken(token, Claims::getExpiration);
     }
 
     public <T> T getClaimFromToken(String token, Function<Claims, T> claimsResolver) {
