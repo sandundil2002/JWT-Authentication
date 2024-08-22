@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class BlogController {
     @GetMapping("/newMethod")
     public String newMethod(){
-        return "HI";
+        return "Hello JWT";
     }
 }
