@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="signin page created.">
+    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="update module.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/signin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/signin.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/signup.html" afterDir="false" />
     </list>
@@ -65,11 +67,12 @@
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.JwtAuthenticationApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/GDSE 68/Second Semester/SE10/JWT-Authentication",
+    "last_opened_file_path": "D:/GDSE 68/Second Semester/SE10/JWT-Authentication/Frontend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -121,6 +124,7 @@
       <workItem from="1724504586724" duration="624000" />
       <workItem from="1724815741580" duration="548000" />
       <workItem from="1724816402328" duration="1544000" />
+      <workItem from="1724817982641" duration="889000" />
     </task>
     <task id="LOCAL-00001" summary="user repository created.">
       <option name="closed" value="true" />
@@ -234,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724817772152</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update module.">
+      <option name="closed" value="true" />
+      <created>1724818202906</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1724818202906</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +266,7 @@
     <MESSAGE value="frontend module created." />
     <MESSAGE value="signup page created." />
     <MESSAGE value="signin page created." />
-    <option name="LAST_COMMIT_MESSAGE" value="signin page created." />
+    <MESSAGE value="update module." />
+    <option name="LAST_COMMIT_MESSAGE" value="update module." />
   </component>
 </project>
