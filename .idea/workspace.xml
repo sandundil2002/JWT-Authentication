@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="signup page created.">
-      <change beforePath="$PROJECT_DIR$/Frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/js/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/js/vendor/.gitkeep" beforeDir="false" />
+    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="signin page created.">
       <change beforePath="$PROJECT_DIR$/Frontend/signin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/signin.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/signup.html" afterDir="false" />
     </list>
@@ -72,7 +69,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "17",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/GDSE 68/Second Semester/AAD/Note_Taker",
+    "last_opened_file_path": "D:/GDSE 68/Second Semester/SE10/JWT-Authentication",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -123,7 +120,7 @@
       <workItem from="1724332455897" duration="2798000" />
       <workItem from="1724504586724" duration="624000" />
       <workItem from="1724815741580" duration="548000" />
-      <workItem from="1724816402328" duration="1244000" />
+      <workItem from="1724816402328" duration="1544000" />
     </task>
     <task id="LOCAL-00001" summary="user repository created.">
       <option name="closed" value="true" />
@@ -229,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724817500071</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="signin page created.">
+      <option name="closed" value="true" />
+      <created>1724817772152</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724817772152</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,6 +253,7 @@
     <MESSAGE value="clean the code." />
     <MESSAGE value="frontend module created." />
     <MESSAGE value="signup page created." />
-    <option name="LAST_COMMIT_MESSAGE" value="signup page created." />
+    <MESSAGE value="signin page created." />
+    <option name="LAST_COMMIT_MESSAGE" value="signin page created." />
   </component>
 </project>
