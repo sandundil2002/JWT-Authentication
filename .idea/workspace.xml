@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="dashboard redirect &amp; logout function implement.">
-      <change afterPath="$PROJECT_DIR$/Frontend/js/dashboard.js" afterDir="false" />
+    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="dashboard validated.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/src/main/java/lk/ijse/jwtauthentication/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/src/main/java/lk/ijse/jwtauthentication/controller/BlogController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/js/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/js/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/js/dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/js/dashboard.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +124,7 @@
       <workItem from="1724504586724" duration="624000" />
       <workItem from="1724815741580" duration="548000" />
       <workItem from="1724816402328" duration="1544000" />
-      <workItem from="1724817982641" duration="6222000" />
+      <workItem from="1724817982641" duration="7847000" />
     </task>
     <task id="LOCAL-00001" summary="user repository created.">
       <option name="closed" value="true" />
@@ -278,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724824606411</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="dashboard validated.">
+      <option name="closed" value="true" />
+      <created>1724825487413</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1724825487413</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,6 +311,7 @@
     <MESSAGE value="ajax through user registration success." />
     <MESSAGE value="ajax through user login function implemented." />
     <MESSAGE value="dashboard redirect &amp; logout function implement." />
-    <option name="LAST_COMMIT_MESSAGE" value="dashboard redirect &amp; logout function implement." />
+    <MESSAGE value="dashboard validated." />
+    <option name="LAST_COMMIT_MESSAGE" value="dashboard validated." />
   </component>
 </project>
