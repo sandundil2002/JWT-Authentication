@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="ajax through user registration success.">
+    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="ajax through user login function implemented.">
+      <change afterPath="$PROJECT_DIR$/Frontend/dashboard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/js/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/js/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/signin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/signin.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +123,7 @@
       <workItem from="1724504586724" duration="624000" />
       <workItem from="1724815741580" duration="548000" />
       <workItem from="1724816402328" duration="1544000" />
-      <workItem from="1724817982641" duration="4905000" />
+      <workItem from="1724817982641" duration="5574000" />
     </task>
     <task id="LOCAL-00001" summary="user repository created.">
       <option name="closed" value="true" />
@@ -261,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724822197534</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="ajax through user login function implemented.">
+      <option name="closed" value="true" />
+      <created>1724823437533</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1724823437533</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +292,7 @@
     <MESSAGE value="update module." />
     <MESSAGE value="frontend finished." />
     <MESSAGE value="ajax through user registration success." />
-    <option name="LAST_COMMIT_MESSAGE" value="ajax through user registration success." />
+    <MESSAGE value="ajax through user login function implemented." />
+    <option name="LAST_COMMIT_MESSAGE" value="ajax through user login function implemented." />
   </component>
 </project>

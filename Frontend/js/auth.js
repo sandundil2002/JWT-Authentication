@@ -45,10 +45,16 @@ function userLogin() {
         success: function (response) {
             console.log(response.data.token);
             localStorage.setItem('token', response.data.token);
+            window.location.href = 'dashboard.html';
         },
 
         error: function (error) {
             console.log(error);
         }
     });
+}
+
+function userLogout() {
+    localStorage.removeItem('token');
+    window.location.href = 'login.html';
 }
