@@ -28,3 +28,27 @@ function userRegistration() {
         }
     });
 }
+
+function userLogin() {
+    let email = $('#email').val();
+    let password = $('#password').val();
+
+    $.ajax({
+        url: 'http://localhost:8080/api/v1/auth/authenticate',
+        method: 'POST',
+        contentType: 'application/json',
+        "data" : JSON.stringify({
+            "email": email,
+            "password": password
+        }),
+
+        success: function (response) {
+            console.log(response.data.token);
+            localStorage.setItem('token', response.data.token);
+        },
+
+        error: function (error) {
+            console.log(error);
+        }
+    });
+}

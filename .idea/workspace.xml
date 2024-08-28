@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="frontend finished.">
+    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="ajax through user registration success.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/java/lk/ijse/jwtauthentication/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/src/main/java/lk/ijse/jwtauthentication/controller/AuthController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/js/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/js/auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/signin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/signin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/signup.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +123,7 @@
       <workItem from="1724504586724" duration="624000" />
       <workItem from="1724815741580" duration="548000" />
       <workItem from="1724816402328" duration="1544000" />
-      <workItem from="1724817982641" duration="3692000" />
+      <workItem from="1724817982641" duration="4905000" />
     </task>
     <task id="LOCAL-00001" summary="user repository created.">
       <option name="closed" value="true" />
@@ -255,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724819357423</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ajax through user registration success.">
+      <option name="closed" value="true" />
+      <created>1724822197534</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1724822197534</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +283,7 @@
     <MESSAGE value="signin page created." />
     <MESSAGE value="update module." />
     <MESSAGE value="frontend finished." />
-    <option name="LAST_COMMIT_MESSAGE" value="frontend finished." />
+    <MESSAGE value="ajax through user registration success." />
+    <option name="LAST_COMMIT_MESSAGE" value="ajax through user registration success." />
   </component>
 </project>
