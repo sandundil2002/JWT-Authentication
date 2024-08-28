@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="frontend module created.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/css/style.css" afterDir="false" />
+    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="signup page created.">
+      <change beforePath="$PROJECT_DIR$/Frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/js/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/js/vendor/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/signin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/signin.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Frontend/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/signup.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +123,7 @@
       <workItem from="1724332455897" duration="2798000" />
       <workItem from="1724504586724" duration="624000" />
       <workItem from="1724815741580" duration="548000" />
-      <workItem from="1724816402328" duration="659000" />
+      <workItem from="1724816402328" duration="1244000" />
     </task>
     <task id="LOCAL-00001" summary="user repository created.">
       <option name="closed" value="true" />
@@ -219,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724816675837</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="signup page created.">
+      <option name="closed" value="true" />
+      <created>1724817500071</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724817500071</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +247,7 @@
     <MESSAGE value="jwt filter bug fixed." />
     <MESSAGE value="clean the code." />
     <MESSAGE value="frontend module created." />
-    <option name="LAST_COMMIT_MESSAGE" value="frontend module created." />
+    <MESSAGE value="signup page created." />
+    <option name="LAST_COMMIT_MESSAGE" value="signup page created." />
   </component>
 </project>
