@@ -53,8 +53,3 @@ function userLogin() {
         }
     });
 }
-
-function userLogout() {
-    localStorage.removeItem('token');
-    window.location.href = 'login.html';
-}
