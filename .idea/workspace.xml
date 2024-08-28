@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="clean the code." />
+    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="frontend module created.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/signup.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -52,33 +57,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven.JWT-Authentication [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.JWT-Authentication [spring-boot:run].executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Spring Boot.JwtAuthenticationApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/GDSE 68/Second Semester/AAD/Note_Taker&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.JWT-Authentication [clean,install].executor": "Run",
+    "Maven.JWT-Authentication [spring-boot:run].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.JwtAuthenticationApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/GDSE 68/Second Semester/AAD/Note_Taker",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean install " />
@@ -115,6 +121,7 @@
       <workItem from="1724332455897" duration="2798000" />
       <workItem from="1724504586724" duration="624000" />
       <workItem from="1724815741580" duration="548000" />
+      <workItem from="1724816402328" duration="659000" />
     </task>
     <task id="LOCAL-00001" summary="user repository created.">
       <option name="closed" value="true" />
@@ -196,7 +203,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724332629150</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="frontend module created.">
+      <option name="closed" value="true" />
+      <created>1724816578181</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724816578181</updated>
+    </task>
+    <task id="LOCAL-00012" summary="frontend module created.">
+      <option name="closed" value="true" />
+      <created>1724816675837</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724816675837</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +236,7 @@
     <MESSAGE value="blogController class implemented." />
     <MESSAGE value="jwt filter bug fixed." />
     <MESSAGE value="clean the code." />
-    <option name="LAST_COMMIT_MESSAGE" value="clean the code." />
+    <MESSAGE value="frontend module created." />
+    <option name="LAST_COMMIT_MESSAGE" value="frontend module created." />
   </component>
 </project>
