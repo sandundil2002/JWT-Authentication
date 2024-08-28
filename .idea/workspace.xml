@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="clean the code." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sandundil2002&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sandundil2002/JWT-Authentication.git&quot;,
+    &quot;accountId&quot;: &quot;d702e313-aedb-4ca0-8a7f-49e89279e156&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2kx9q47Q3TbgBXpDjg83MqdDzhW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.JWT-Authentication [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.JWT-Authentication [spring-boot:run].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.JwtAuthenticationApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GDSE 68/Second Semester/AAD/Note_Taker&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install " />
+      <command value="mvn spring-boot:run" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="JwtAuthenticationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="JWT-Authentication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lk.ijse.jwtauthentication.JwtAuthenticationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f166f42-f51a-4ebe-aa55-b693100e7ffd" name="Changes" comment="" />
+      <created>1724214551274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724214551274</updated>
+      <workItem from="1724214552586" duration="15393000" />
+      <workItem from="1724301944396" duration="23000" />
+      <workItem from="1724332455897" duration="2798000" />
+      <workItem from="1724504586724" duration="624000" />
+      <workItem from="1724815741580" duration="548000" />
+    </task>
+    <task id="LOCAL-00001" summary="user repository created.">
+      <option name="closed" value="true" />
+      <created>1724215120308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724215120308</updated>
+    </task>
+    <task id="LOCAL-00002" summary="user service created.">
+      <option name="closed" value="true" />
+      <created>1724215473133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724215473133</updated>
+    </task>
+    <task id="LOCAL-00003" summary="user serviceIMPL implemented.">
+      <option name="closed" value="true" />
+      <created>1724217364447</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724217364447</updated>
+    </task>
+    <task id="LOCAL-00004" summary="jwtUtil class implemented.">
+      <option name="closed" value="true" />
+      <created>1724222165560</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724222165560</updated>
+    </task>
+    <task id="LOCAL-00005" summary="jwtFilter class implemented.">
+      <option name="closed" value="true" />
+      <created>1724224538485</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724224538485</updated>
+    </task>
+    <task id="LOCAL-00006" summary="websecurityconfig class implemented.">
+      <option name="closed" value="true" />
+      <created>1724225653942</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724225653942</updated>
+    </task>
+    <task id="LOCAL-00007" summary="authController class implemented.">
+      <option name="closed" value="true" />
+      <created>1724225900220</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724225900220</updated>
+    </task>
+    <task id="LOCAL-00008" summary="blogController class implemented.">
+      <option name="closed" value="true" />
+      <created>1724225952833</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724225952833</updated>
+    </task>
+    <task id="LOCAL-00009" summary="jwt filter bug fixed.">
+      <option name="closed" value="true" />
+      <created>1724226241505</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724226241505</updated>
+    </task>
+    <task id="LOCAL-00010" summary="clean the code.">
+      <option name="closed" value="true" />
+      <created>1724332629150</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724332629150</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="user repository created." />
+    <MESSAGE value="user service created." />
+    <MESSAGE value="user serviceIMPL implemented." />
+    <MESSAGE value="jwtUtil class implemented." />
+    <MESSAGE value="jwtFilter class implemented." />
+    <MESSAGE value="websecurityconfig class implemented." />
+    <MESSAGE value="authController class implemented." />
+    <MESSAGE value="blogController class implemented." />
+    <MESSAGE value="jwt filter bug fixed." />
+    <MESSAGE value="clean the code." />
+    <option name="LAST_COMMIT_MESSAGE" value="clean the code." />
+  </component>
+</project>
