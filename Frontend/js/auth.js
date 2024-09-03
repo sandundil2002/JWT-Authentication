@@ -19,8 +19,7 @@ function userRegistration() {
         
         success: function (response) {
             localStorage.setItem('token', response.data.token);
-            console.log(response);
-            console.log(response.data.token);
+            swal("Good job!", "User Registration Successful!", "success");
         },
         
         error: function (error) {
@@ -43,7 +42,7 @@ function userLogin() {
         }),
 
         success: function (response) {
-            console.log(response.data.token);
+            swal("Good job!", "User Login Successful!", "success");
             localStorage.setItem('token', response.data.token);
             window.location.href = 'dashboard.html';
         },
