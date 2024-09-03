@@ -6,6 +6,7 @@ import lk.ijse.jwtauthentication.dto.UserDTO;
 import lk.ijse.jwtauthentication.service.impl.UserServiceIMPL;
 import lk.ijse.jwtauthentication.util.JwtUtil;
 import lk.ijse.jwtauthentication.util.VarList;
+import lombok.Data;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;
